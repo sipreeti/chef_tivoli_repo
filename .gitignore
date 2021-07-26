@@ -1,4 +1,5 @@
 .vagrant
+<<<<<<< HEAD
 *~
 *#
 .#*
@@ -19,3 +20,13 @@ bin/*
 Berksfile.lock
 .zero-knife.rb
 Policyfile.lock.json
+=======
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+>>>>>>> 6fde77aa989a7dab4c2e40d029322b5c20be8721
